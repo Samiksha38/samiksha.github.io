@@ -1,0 +1,46 @@
+<DOCTYPE html>
+<html>
+<head>
+<body bgcolor= Gray>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width-device-width,initial-scale=0.1">
+	<title>About Us</title>
+<link rel="stylesheet" href="About us.html">
+<body>
+<div class="container">
+<center>
+  <h1>About Us.....</h1>
+  <h2 style ="color:white">
+!!_Images Gallery_!!</h2>
+  <p>
+<br>
+<h3>
+Our world is filled with the most unique structures that are both man-made and natural.
+Some of the man-made creations include churches, tombs, temples, monuments, mosques, buildings and even cities.
+These structures have withstood the test of time and they continue to leave many awestruck with their brilliance.
+There are many in the world, but only seven are selected, which are deemed to be the best.At present, 
+as chosen by the New7Wonders Foundation, the Seven Wonders of the World are the Taj Mahal, the Colosseum, 
+the Chichen Itza, Machu Picchu, Christ the Redeemer, Petra, and the Great Wall of China. 
+Added to the list is the Great Pyramid of Giza, though it is just considered an honorary candidate and not 
+a wonder of the world.The world is filled with the most attractive and unique structures that are man-made, 
+some are also natural. In which man-made designs or creations include churches, tombs, temples, monuments, mosques, 
+buildings and cities also. All these structures had survived the best of time and they continue to leave many 
+wonderstruck with their brilliance. At present, as chosen by the New7Wonders Foundation, the Seven Wonders of the 
+World are the Taj Mahal, the Colosseum, the Chichen Itza, Machu Picchu, Christ the Redeemer, Petra, and the Great Wall 
+of China. Added to the list is the Great Pyramid of Giza, though it is just considered an honorary candidate and not a 
+wonder of the world.<br> 
+<br><center>
+<img src="C:\Users\rawal\Downloads\Baground.jpg" width="800px" height="500px"></center><br><br>
+<br><br><center>
+<img src="D:\css project\Wonders 1.jpg" width="800px" height="500px"></center><br><br>
+<br><br><center>
+<img src="D:\css project\map.jpg" width="800px" height="500px"></center><br><br>
+<br><br><center>
+<img src="D:\css project\images.jpg" width="800px" height="500px"></center><br><br>
+<br><br><center>
+<img src="D:\css project\1580734263.jpg" width="800px" height="500px"></center><br><br>
+</h3>
+</div>
+</body>
+</head>
+</html>

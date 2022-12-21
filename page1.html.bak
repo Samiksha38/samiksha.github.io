@@ -1,0 +1,62 @@
+<DOCTYPE html>
+<html>
+<head>
+<table border="0" width="100%" bgcolor="black" height="8%">
+<tr>
+<th width="10%"><font color="white" size="4"><a href="file:///C:/Users/rawal/Downloads/page1.html">Home</a></font><th>
+<th width="10%"><font color="white" size="4"><href="2nd_page.h">Places</a></font><th>
+<th width="10%"><font color="white" size="4"><a href="file:///C:/Users/rawal/Downloads/About.html">About Us</a></font><th>
+
+</tr>
+</table>
+<br>
+     <meta name="viewport" content="width-device-width,initial-scale=0.1">
+	 <title>Image Slider Design </title>
+	 <link rel="stylesheet" href="project.css"/>
+	 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
+</head>
+<body>
+
+<div class="container">
+<div class="swiper">
+  <div class="swiper-wrapper">
+    <!-- Slides -->
+	<div class="swiper-slide"><img src="D:\css project\taj2.jpg" height="800" width="1500"></div>
+	<div class="swiper-slide"><img src="D:\css project\Great wall of chaina.jpg" height="1000" width="1500"></div>
+	<div class="swiper-slide"><img src="D:\css project\Chichen itza.jpg.jpeg" height="1000" width="1500"></div>
+	<div class="swiper-slide"><img src="D:\css project\Machu picchu.jpg.jpeg" height="1000" width="1500"></div>
+	<div class="swiper-slide"><img src="D:\css project\Petra.jpg.jpeg" height="1000" width="1500"></div>
+	<div class="swiper-slide"><img src="D:\css project\Christ redeemer.jpg.jpeg" height="1000" width="1500"></div>
+	<div class="swiper-slide"><img src="D:\css project\Colosseum.jpg.jpeg" height="1000" width="1500"></div>
+  </div>
+  
+  <div class="swiper-pagination"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+</div>
+
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+<script>
+const swiper = new Swiper('.swiper', {
+    autoplay: {
+	delay: 3000,
+	disableOnInteraction: false,
+	},
+  loop: true,
+  pagination: {
+    el: '.swiper-pagination',
+
+  },
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
+
+  
+});
+</script>
+</body>
+</html>
